@@ -19,7 +19,7 @@
 [Angular-url]: https://angular.io/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[DotNet.com]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png
+[DotNet.com]: https://img.shields.io/badge/.Net-512bd4?style=for-the-badge&logo=.net&logoColor=white
 [DotNet-url]: https://dotnet.microsoft.com/en-us/
 [Nodejs.com]: https://img.shields.io/badge/Node.js-417e38?style=for-the-badge&logo=node.js&logoColor=white
 [Nodejs-url]: https://nodejs.org/en
