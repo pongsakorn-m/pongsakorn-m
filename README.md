@@ -1,25 +1,37 @@
-### My Skills
+# Welcome to My GitHub Profile!
 
-* [![Angular][Angular.io]][Angular-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![.Net][DotNet.com]][DotNet-url]
-* [![Node.js][Nodejs.com]][Nodejs-url]
+Hello! I'm ToN, an enthusiastic developer passionate about creating innovative solutions and sharing knowledge.
 
+---
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[DotNet.com]: https://img.shields.io/badge/.Net-512bd4?style=for-the-badge&logo=.net&logoColor=white
-[DotNet-url]: https://dotnet.microsoft.com/en-us/
-[Nodejs.com]: https://img.shields.io/badge/Node.js-417e38?style=for-the-badge&logo=node.js&logoColor=white
-[Nodejs-url]: https://nodejs.org/en
+## About Me
+
+- **💻 Profession:** Assistant System Analyst with almost 3 years of experience in software development.
+- **👨‍💻 Expertise:** Full-stack development, problem-solving, and creating scalable solutions.
+- **🎯 Interests:** Building projects, solving complex problems, and mentoring team members.
+
+---
+
+## My Skills
+
+### Languages & Frameworks
+- **Programming Languages:** JavaScript, TypeScript, C#, SQL, Dart, Java
+- **Frameworks:** Angular, .NET Core, Node.js, Flutter, Spring Boot
+
+### Tools & Technologies
+- **Development Tools:** Visual Studio Code, Visual Studio, Docker, IntelliJ IDEA
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
+- **Others:** Git, CI/CD pipelines, Azure
+
+---
+
+## How to Reach Me
+
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/pongsakorn-mukdavannakorn-329ab325b)
+- **Email:** [YourEmail@example.com](mailto:pongsakorn.mukd@gmail.com)
+- **Medium:** [Your Portfolio]([https://yourportfolio.com](https://medium.com/@pongsakorn_m))
+
+---
+
+### Thanks for Visiting!
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about technology!
