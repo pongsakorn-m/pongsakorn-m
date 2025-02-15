@@ -6,7 +6,7 @@ Hello! I'm ToN, an enthusiastic developer passionate about creating innovative s
 
 ## About Me
 
-- **💻 Profession:** Assistant System Analyst with almost 3 years of experience in software development.
+- **💻 Profession:** Assistant System Analyst with 3 years of experience in software development.
 - **👨‍💻 Expertise:** Full-stack development, problem-solving, and creating scalable solutions.
 - **🎯 Interests:** Building projects, solving complex problems, and mentoring team members.
 
