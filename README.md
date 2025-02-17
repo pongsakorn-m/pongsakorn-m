@@ -27,9 +27,9 @@ Hello! I'm ToN, an enthusiastic developer passionate about creating innovative s
 
 ## How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/pongsakorn-mukdavannakorn-329ab325b)
-- **Email:** [YourEmail@example.com](mailto:pongsakorn.mukd@gmail.com)
-- **Medium:** [Your Portfolio]([https://yourportfolio.com](https://medium.com/@pongsakorn_m))
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/pongsakorn-mukdavannakorn-329ab325b)
+- **Email:** [pongsakorn.mukd@gmail.com](mailto:pongsakorn.mukd@gmail.com)
+- **Medium:** [Medium](https://medium.com/@pongsakorn_m)
 
 ---
 
